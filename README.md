@@ -12,3 +12,7 @@ Branch lab3
 
 ## Activity 3
 ![activity 3](images_lab3/activity3.png)
+
+## Activity 4
+![activity 4](images_lab3/activity4_log_messages.png)
+![activity 4](images_lab3/activity4_app.png)
