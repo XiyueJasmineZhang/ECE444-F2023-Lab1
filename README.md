@@ -9,3 +9,6 @@ Branch lab3
 
 ## Activity 2
 ![activity 2](images_lab3/activity2.png)
+
+## Activity 3
+![activity 3](images_lab3/activity3.png)
